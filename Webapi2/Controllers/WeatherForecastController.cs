@@ -18,9 +18,9 @@ namespace Webapi2.Controllers
 
         private readonly ILogger<WeatherForecastController> _logger;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public WeatherForecastController()
         {
-            _logger = logger;
+          //  _logger = logger;
         }
 
         [HttpGet]
@@ -34,6 +34,12 @@ namespace Webapi2.Controllers
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
+        }
+
+        [HttpGet]
+        public string Test()
+        {
+            return "Jitendra";
         }
     }
 }

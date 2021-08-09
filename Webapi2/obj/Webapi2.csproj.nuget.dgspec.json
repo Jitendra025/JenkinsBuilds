@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jiten\\source\\repos\\Webapi2\\Webapi2.csproj": {}
+    "C:\\Users\\jiten\\source\\repos\\JenkinsBuilds\\Webapi2\\Webapi2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jiten\\source\\repos\\Webapi2\\Webapi2.csproj": {
+    "C:\\Users\\jiten\\source\\repos\\JenkinsBuilds\\Webapi2\\Webapi2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jiten\\source\\repos\\Webapi2\\Webapi2.csproj",
+        "projectUniqueName": "C:\\Users\\jiten\\source\\repos\\JenkinsBuilds\\Webapi2\\Webapi2.csproj",
         "projectName": "Webapi2",
-        "projectPath": "C:\\Users\\jiten\\source\\repos\\Webapi2\\Webapi2.csproj",
+        "projectPath": "C:\\Users\\jiten\\source\\repos\\JenkinsBuilds\\Webapi2\\Webapi2.csproj",
         "packagesPath": "C:\\Users\\jiten\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jiten\\source\\repos\\Webapi2\\obj\\",
+        "outputPath": "C:\\Users\\jiten\\source\\repos\\JenkinsBuilds\\Webapi2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jiten\\AppData\\Roaming\\NuGet\\NuGet.Config",
