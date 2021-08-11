@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/p3ermUxv35I3ka9TYimPOYH+0yUPoyd4FVrnNv0kUAJDCJxP9sTx6SBtSMi647u8B0hPa9YNamyuo0TZACd/A==",
+  "dgSpecHash": "6rXhhlTGEUWhie7Emie8KoYr/D2/ss9YArEhCUlbvkIFe9E6tN7KLJiwzbN7je+539a5LGR1oGUA3wmGYJTK4Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\jiten\\source\\repos\\JenkinsBuilds\\Webapi2\\Webapi2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jiten\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FKJTPankiyM2BaZEJNnotPMPf+O83QrJuiNSemDjEucm1dGthyXfsmIUjw8QSlmMLuJE67Rbol46wVOwSaX5vg==",
+  "dgSpecHash": "ePobvwuOZTlOSNLxiCMoaVst9YIo9HkDPCY9ieLpa34hj4O26n4e5uMy0HsUGeSjhgVQscRYqGUfn1qsGfXHWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jiten\\source\\repos\\JenkinsBuilds\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\jiten\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\jiten\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.7.1\\microsoft.testplatform.objectmodel.16.7.1.nupkg.sha512",
     "C:\\Users\\jiten\\.nuget\\packages\\microsoft.testplatform.testhost\\16.7.1\\microsoft.testplatform.testhost.16.7.1.nupkg.sha512",
+    "C:\\Users\\jiten\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\jiten\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\jiten\\.nuget\\packages\\mstest.testadapter\\2.1.1\\mstest.testadapter.2.1.1.nupkg.sha512",
     "C:\\Users\\jiten\\.nuget\\packages\\mstest.testframework\\2.1.1\\mstest.testframework.2.1.1.nupkg.sha512",

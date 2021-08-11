@@ -37,3 +37,4 @@ C:\Users\jiten\Source\Repos\JenkinsBuilds\Webapi2\obj\Debug\netcoreapp3.1\Webapi
 C:\Users\jiten\Source\Repos\JenkinsBuilds\Webapi2\obj\Debug\netcoreapp3.1\Webapi2.dll
 C:\Users\jiten\Source\Repos\JenkinsBuilds\Webapi2\obj\Debug\netcoreapp3.1\Webapi2.pdb
 C:\Users\jiten\Source\Repos\JenkinsBuilds\Webapi2\obj\Debug\netcoreapp3.1\Webapi2.genruntimeconfig.cache
+C:\Users\jiten\source\repos\JenkinsBuilds\Webapi2\obj\Debug\netcoreapp3.1\Webapi2.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\jiten\source\repos\JenkinsBuilds\Webapi2\obj\Release\netcoreapp3.1\PubTmp\Out\Webapi2.exe
+C:\Users\jiten\source\repos\JenkinsBuilds\Webapi2\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\jiten\source\repos\JenkinsBuilds\Webapi2\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\jiten\source\repos\JenkinsBuilds\Webapi2\obj\Release\netcoreapp3.1\PubTmp\Out\Webapi2.dll
+C:\Users\jiten\source\repos\JenkinsBuilds\Webapi2\obj\Release\netcoreapp3.1\PubTmp\Out\Webapi2.deps.json
+C:\Users\jiten\source\repos\JenkinsBuilds\Webapi2\obj\Release\netcoreapp3.1\PubTmp\Out\Webapi2.runtimeconfig.json
+C:\Users\jiten\source\repos\JenkinsBuilds\Webapi2\obj\Release\netcoreapp3.1\PubTmp\Out\Webapi2.pdb
