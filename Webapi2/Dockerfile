@@ -7,10 +7,10 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
 WORKDIR /src
-COPY ["Webapi2.csproj", "."]
-RUN dotnet restore "./Webapi2.csproj"
+COPY ["Webapi2/Webapi2.csproj", "Webapi2/"]
+RUN dotnet restore "Webapi2/Webapi2.csproj"
 COPY . .
-WORKDIR "/src/."
+WORKDIR "/src/Webapi2"
 RUN dotnet build "Webapi2.csproj" -c Release -o /app/build
 
 FROM build AS publish

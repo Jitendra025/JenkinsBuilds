@@ -1,4 +1,10 @@
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Webapi2.deps.json
+C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Webapi2.runtimeconfig.json
+C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Webapi2.runtimeconfig.dev.json
+C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Webapi2.exe
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -85,6 +91,8 @@ C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\z
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Webapi2.dll
+C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Webapi2.pdb
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.csprojAssemblyReference.cache
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.AssemblyInfoInputs.cache
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.AssemblyInfo.cs
@@ -93,11 +101,3 @@ C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\obj\Debug\netcoreapp3.1\T
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.dll
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.pdb
 C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.genruntimeconfig.cache
-C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Webapi2.deps.json
-C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Webapi2.runtimeconfig.json
-C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Webapi2.runtimeconfig.dev.json
-C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Webapi2.exe
-C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Webapi2.dll
-C:\Users\jiten\source\repos\JenkinsBuilds\TestProject1\bin\Debug\netcoreapp3.1\Webapi2.pdb
